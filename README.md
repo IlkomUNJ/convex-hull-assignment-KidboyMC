@@ -8,26 +8,27 @@ AI yang Digunakan: Gemini
 
 Kueri yang digunakan:
 Create an application with
-● A canvas
-● Run Convex Hull Button
-● Clear Button
-● The canvas will served both as drawing canvas and final
+- A canvas
+- Run Convex Hull Button
+- Clear Button
+- The canvas will served both as drawing canvas and final
 convex hull drawing
-● Clear button will simply clear canvas
+- Clear button will simply clear canvas
 
 Our UI
 Main Window
-● Central Widget
-● QVbox Layout
-● Drawing Widget
-● QboxLayout
-● RunSimulationButton
-● ClearButton
+- Central Widget
+- QVbox Layout
+- Drawing Widget
+- QboxLayout
+- RunSimulationButton
+- ClearButton
 
-● Implement both slow convex hull and convex hull algorithm
-● Track how many iteration in general taken using the same
+#
+- Implement both slow convex hull and convex hull algorithm
+- Track how many iteration in general taken using the same
 dataset
-● Wrote the iteration number on canvas
+- Wrote the iteration number on canvas
 
 Algorithm SLOWCONVEXHULL(P)
 Input. A set P of points in the plane.
